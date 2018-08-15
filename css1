@@ -1,0 +1,84 @@
+Texto
+
+Tipo de fuente:
+ 	•	font-family: Serif | Sans-serif | Monospace ;
+
+Tamaño de fuente:
+	•	font-size: px ;
+
+Color:
+	•	color: ;
+
+Grosor de cada letra:
+	•	font-weight: bold; 
+
+Alineación del texto:
+	•	text-align: left | right | center ;
+
+Cursiva:
+	•	font-style: italic;
+
+
+Decoración del texto:
+	•	text-decoration: underline | overline ;
+
+Transformacíon del texto original:
+	•	text-transform: capitalize | uppercase | lowercase;
+
+Fondos 
+Color de fondo: 
+	•	background: red;
+
+Imagen como fondo:
+   •	background: url("imagenes/fondo.png");
+   •	background-repeat: no-repeat;
+
+Imágenes 
+Eliminar el borde:
+	•	border: none; 
+
+Listas 
+Viñetas personalizadas:
+	•	list-style-type: disc | circle | square |; 
+	•	list-style-type: lower-roman | upper-roman | lower-greek | lower-latin | upper-latin ; 
+
+Enlaces
+
+   a:hover { text-decoration: none; 
+             color:;
+             font-size: px;}
+
+
+Cajas 
+Anchura y Altura:
+	•	width: px;
+	•	height: px;
+ 
+Fondo:
+Bordes :
+  	•	border: px (solid | dashed | dotted) color;
+  border-top: 1px solid red;
+  border-right: 1px solid red;
+  border-bottom: 1px solid red;
+  border-left: 1px solid red;
+Margen:
+•	margin: px ;
+	•	  margin-top: px;
+	•	  margin-right: px;
+	•	  margin-bottom: px;
+	•	  margin-left: px;
+Relleno:
+•	padding: px ;
+	•	  padding-top: px;
+	•	  padding-right: px;
+	•	  padding-bottom: px;
+	•	  padding-left: px;
+
+Posicionamiento
+Relativo :
+	•	  position: relative;
+	•	  margin-top, margin-right, margin-bottom y margin-left: px;
+Flotante :
+	•	   float: left | right;
+
+
